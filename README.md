@@ -1,4 +1,5 @@
 # Bernoulli and Poisson Process Simulation
+## Stochastic Processes and Applications Assignment 
 Wrote Python Code to simulate Bernoulli and Poisson Processes.
 
 # Problem Statement
